@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajendra Aryan Sahu</h1>
-<h3 align="center">Aspiring Backend Developer | B.Tech CSE'27</h3>
+<h1 align="center">Hello There !👋</h1>
 
 ## 💫 About Me:
 Exploring the MERN stack with a growing interest in backend development.<br>
