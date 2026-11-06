@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rajendra Aryan 👋</h1>
+<h1 align="center">Hi there, I'm Rajendra Aryan Sahu 👋</h1>
 <h3 align="center">Systems & Backend Engineer | DevSecOps & AI Threat Intelligence</h3>
 
 <p align="center">
